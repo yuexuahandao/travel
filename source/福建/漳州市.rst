@@ -1,0 +1,18 @@
+漳州市
+---------------
+
+镇海角
+>>>>>>>>>>>>>
+https://j.map.baidu.com/B1aQO
+
+【闽南小垦丁】福建镇海角位于漳州龙海最东边的小乡镇——**隆教畲族乡**。这里三面环海，青山为伴，是一个非常美丽的海角。由于漳州目前正处于开发阶段，镇海角到六鳌镇的马路还在修建之中，三车道，限速80公里，来到这儿你可能需要耗很长一段时间，但它的美丽足以让你不顾一切奔波而来。去镇海角的最佳方式就是自驾，因为转车很麻烦。
+
+.. raw:: html
+    <hr width=50 size=10>
+    
+    <iframe src="https://j.map.baidu.com/B1aQO" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
+
+.. image:: http://img.mp.itc.cn/upload/20170204/b187c5fc3b8845d1b678b4266822f4a1_th.jpeg
+.. image:: /_static/福建省/镇海角/镇海角1.jpeg
+.. image:: /_static/福建省/镇海角/镇海角2.jpeg
+.. image:: /_static/福建省/镇海角/镇海角3.jpeg

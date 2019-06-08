@@ -6,11 +6,14 @@
 Welcome to travel's documentation!
 ==================================
 
+人生苦短，该旅行就旅行
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   
+   福建省
 
-
+   
 
 Indices and tables
 ==================
