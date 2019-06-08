@@ -6,12 +6,17 @@
 Welcome to travel's documentation!
 ==================================
 
-人生苦短，该旅行就旅行
+人生苦短，该旅行就旅行。
+
+下面是一张中国地图：
+
+.. image:: /_static/中国地图.jpg
 
 .. toctree::
    :maxdepth: 3
    
    福建省
+   江西省
 
    
 
