@@ -17,6 +17,9 @@
 
 关于福建好玩的地方，可以在 `这里 <https://www.zhihu.com/question/35516285>`_ 找到
 
+福建自驾的线路选择：
+`福建自驾游攻略 <http://www.dazijia.com/gonglue/fujian.html>`_
+
 .. 下面是正式的按市进行的详细介绍
 
 .. include::
