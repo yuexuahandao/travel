@@ -22,6 +22,10 @@ Welcome to travel's documentation!
    
    福建省
    江西省
+   山东省
+   江苏省
+   浙江省
+   河北省
 
 
 关于旅游比较小众的地方的讨论：
@@ -30,8 +34,6 @@ Welcome to travel's documentation!
 还有关于吃的讨论：
 `有什么地方让你觉得「哪怕只为了吃都值得特地跑一趟」？ <https://www.zhihu.com/question/24708380>`_
 
-福建自驾的线路选择：
-`福建自驾游攻略 <http://www.dazijia.com/gonglue/fujian.html>`_
 
 Indices and tables
 ==================

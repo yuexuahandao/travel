@@ -1,0 +1,45 @@
+山东省
+===========================
+
+山东省交通图：
+
+.. image:: /_static/山东省/山东省交通图.jpeg
+
+山东景点图：
+
+.. image:: /_static/山东省/山东省景点图.gif
+
+.. 下面是正式的按市进行的详细介绍
+
+.. include::
+   山东/青岛市.rst
+
+.. include::
+   山东/东营市.rst
+
+.. include::
+   山东/泰安市.rst
+
+.. include::
+   山东/烟台市.rst
+
+.. include::
+   山东/日照市.rst
+
+.. include::
+   山东/临沂市.rst
+
+.. include::
+   山东/威海市.rst
+
+.. include::
+   山东/曲阜市.rst
+
+.. include::
+   山东/枣庄市.rst
+
+.. include::
+   山东/济南市.rst
+
+.. include::
+   山东/潍坊市.rst
