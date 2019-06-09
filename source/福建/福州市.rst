@@ -5,36 +5,28 @@
 
 线路1：泉州—莆田(下高速)—永泰县—岭路乡(青云山)—赤壁—吕溪龙山—闽侯南通(十八重溪)
 
+永泰县的三个景区是靠在一起的，另外永泰县有直达的火车站，去旅游也是比较方便的。
+
+.. image:: /_static/福建省/永泰县旅游区.png
+
+
 永泰青云山
 >>>>>>>>>>>>>>
 永泰青云山风景名胜区位于福建省福州市永泰县岭路乡与莆田市涵江区交界处，是国家级AAAA重点景区、国家重点风景名胜区。
 
 https://j.map.baidu.com/VS8g-
 
-.. raw:: html
-    <hr width=50 size=10>
-    
-    <embed>
-    <iframe src="https://j.map.baidu.com/VS8g-" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
-    </embed>
+.. .. raw:: html
+..     <hr width=50 size=10>
+
+..     <embed>
+..     <iframe src="https://j.map.baidu.com/VS8g-" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
+..     </embed>
 
 永泰青云山风景名胜区是集峡谷、森林、瀑布、古火山口、高山牧场和鸟类自然保护区为一体的生态旅游区，主要旅游景点有九天瀑布、青龙瀑布、云天石廊、桫椤神谷景区及单独管理的天池草甸景区(中国云顶)。
 
 .. image:: https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=02aee12bfcf2b211f0238d1cabe90e5d/b812c8fcc3cec3fdee95202dd188d43f8794273a.jpg
 .. image:: https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=4cd4b9e47a1ed21b6dc426b7cc07b6a1/ac4bd11373f0820291efb9294cfbfbedab641ba2.jpg
-
-闽侯十八重溪
->>>>>>>>>>>>>>>>
-十八重溪在距福建省福州约20公里的闽侯县南通镇境内，发源于县南古崖山尾东麓，为大樟溪下游南岸支流。流域面积约62平方公里，其间水平长度500米以上的溪流有24条，取名“十八”，形容其多。第三批省级风景名胜区。景区内水系发达，干流长约10.8公里，河宽5至40米，水深127；0.5至3米。溪流两岸生长着茂密的常绿阔叶林、次生灌木林，有娃娃鱼、桫椤树等国家一类保护动植物，林中常有弥猴成群出没。
-
-
-.. raw:: html
-    <hr width=50 size=10>
-    
-    <iframe src="https://j.map.baidu.com/HL9IZ" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
-
-.. image:: https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=a5ce0b9e11ce36d3b6098b625b9a51e2/9e3df8dcd100baa1336ab0ff4310b912c8fc2e34.jpg
-.. image:: https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=9f6f0fcb6881800a7ae8815cd05c589f/b21c8701a18b87d669485d5b030828381f30fd68.jpg
 
 永泰天门山
 >>>>>>>>>>>>>>>>
@@ -42,11 +34,52 @@ https://j.map.baidu.com/E37DP
 
 永泰天门山因山有一巨石屹立形状如门而得名，天门山属于青云山山脉，丹霞地貌，几条大溪贯穿山谷，水流清澈，两岸怪石嶙峋，风景如画，有大大小小许多瀑布。景区占地6平方公里，最高海拔828米。
 
-.. raw:: html
-    <hr width=50 size=10>
+.. .. raw:: html
+..     <hr width=50 size=10>
     
-    <iframe src="https://j.map.baidu.com/E37DP" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
+..     <iframe src="https://j.map.baidu.com/E37DP" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
 
 .. image:: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560022583239&di=a38e6e25ffc482de9b00d5701a790257&imgtype=0&src=http%3A%2F%2Fimage109.360doc.com%2FDownloadImg%2F2018%2F08%2F1920%2F141790419_31_20180819083235910.jpg
+
+永泰云顶旅游区
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+中国云顶旅游度假区位于福建省福州市永泰县境内，国家重点风景名胜区青云山之巅。距福州仅90公里，占地36平方公里，是易达旅游集团耗资10亿，按照5A级标准建设的集观光休闲、度假养生、求知探险、科普教育为一体综合型的旅游目的地，这里打造成“福州人引以为傲的福建旅游新地标”和“ 中国省城唯一的高山休闲度假基地”， 被誉为“福建的香格里拉”，有蒙古敖包似的建筑，又有兔耳岭高山草甸之美，花园式的高山景观。
+2013年5月25日易达旅游集团公布了“清新云顶甲天下”战略，将尽最大的努力保护景区原始的一草一木，打造全国空气质量最优的清新旅游圣地。第三方权威检测机构全方位检测数据表明，中国云顶旅游度假区空气质量超优，Pm2.5接近零，比国际顶级清新空气标准pm2.5值高出近1倍，负氧离子含量20万个/ cm3，比世界清新空气标准值高出近20倍
+
+永泰云顶风景区被称之为“福建的香格里拉”，云顶山头一片万亩高山草甸，是绝佳的避暑游览胜地。进入云顶景区，首先看到的是花海梯田，春、夏、秋三季都可以看到不同季节的花海，欣赏完梯田，可以选择坐车前往云顶的最高点天池—一口古火山爆发形成的椭圆形的池水，天池的周围就是高山草甸，坡度平缓，可以放风筝。时间充裕的话，还可以体验一晚云顶的特色住宿QQ蛋居。
+
+.. image:: https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=34021c6a6ed0f703f2bf9d8e69933a58/6a63f6246b600c33395594b5164c510fd9f9a19b.jpg
+
+
+闽侯十八重溪
+>>>>>>>>>>>>>>>>
+十八重溪在距福建省福州约20公里的闽侯县南通镇境内，发源于县南古崖山尾东麓，为大樟溪下游南岸支流。流域面积约62平方公里，其间水平长度500米以上的溪流有24条，取名“十八”，形容其多。第三批省级风景名胜区。景区内水系发达，干流长约10.8公里，河宽5至40米，水深127；0.5至3米。溪流两岸生长着茂密的常绿阔叶林、次生灌木林，有娃娃鱼、桫椤树等国家一类保护动植物，林中常有弥猴成群出没。
+
+
+.. .. raw:: html
+..     <hr width=50 size=10>
+    
+..     <iframe src="https://j.map.baidu.com/HL9IZ" marginwidth="0" marginheight="0" scrolling="no" style="width:100%; height:500px; border:0; overflow:hidden;"></iframe>
+
+.. image:: https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=a5ce0b9e11ce36d3b6098b625b9a51e2/9e3df8dcd100baa1336ab0ff4310b912c8fc2e34.jpg
+.. image:: https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=9f6f0fcb6881800a7ae8815cd05c589f/b21c8701a18b87d669485d5b030828381f30fd68.jpg
+
+平潭岛
+>>>>>>>>>>>>>>>>>>>>>>
+海坛岛，亦称平潭岛，是中国第五大岛 [1]  、福建省第一大岛，地处中国东南沿海，位于福建省平潭县境内，是平潭县主岛，距福州128公里，东面与台湾省新竹港相距仅68海里，是中国大陆距台湾最近处，岛屿南北长29公里，东西宽19公里，面积为267.13平方公里，占平潭县总面积的72%，以形似坛、兀峙海中得名。岛上时常“东来岚气弥漫”，简称“岚”，别称“东岚”，旧称“海山”。
+
+海坛岛名胜古迹有三十六脚湖、石牌洋礁、仙人井、一片瓦和壳丘头遗址，有龙凤头度假村和坛南湾海滨浴场。
+
+平潭岛位于福建省东部，与台湾隔海相望，是大陆距离台湾岛最近的地方。是福建省第一大岛，我国第五大岛，有福建的“马尔代夫”之称。
+
+https://j.map.baidu.com/bdWYN
+
+.. image:: https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=1f52065e2b381f308a1485fbc868276d/2e2eb9389b504fc2541f8463e6dde71190ef6d17.jpg
+.. image:: https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=473083c18e1001e95a311c5dd9671089/e7cd7b899e510fb3ebd8bdbfda33c895d0430cd1.jpg
+
+平潭岛“蓝眼泪”一般出现在每年4月到5月之间，若是气象条件合适，这种奇观还能延续到6、7月。想要看到蓝眼泪的出现，不仅季节要对，还要风向为南风，强风起浪，浪惊扰到介形虫，才有机会看到。
+
+.. image:: https://pic1.zhimg.com/80/v2-1a115aed70ebb53f00980736cfe50b61_hd.jpg
+
 
 
