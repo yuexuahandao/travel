@@ -1,2 +1,43 @@
 江苏省
 ======================
+
+.. 下面是正式的按市进行的详细介绍
+
+.. include::
+   江苏/南京市.rst
+
+.. include::
+   江苏/苏州市.rst
+
+.. include::
+   江苏/无锡市.rst
+
+.. include::
+   江苏/扬州市.rst
+
+.. include::
+   江苏/镇江市.rst
+
+.. include::
+   江苏/徐州市.rst
+
+.. include::
+   江苏/泰州市.rst
+
+.. include::
+   江苏/盐城市.rst
+
+.. include::
+   江苏/南通市.rst
+
+.. include::
+   江苏/连云港市.rst
+
+.. include::
+   江苏/淮安市.rst
+
+.. include::
+   江苏/常州市.rst
+
+.. include::
+   江苏/宿迁市.rst
